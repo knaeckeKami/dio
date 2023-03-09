@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:cronet_http/cronet_client.dart';
+import 'package:cronet_http/cronet_http.dart';
 import 'package:dio/dio.dart';
 import 'conversion_layer_adapter.dart';
 
