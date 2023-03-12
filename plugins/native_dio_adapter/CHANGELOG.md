@@ -1,6 +1,8 @@
-## 0.0.2
+# CHANGELOG
 
-- bump cupertino_http and cronet_http dependencies
+## Unreleased
+- Bump cupertino_http and cronet_http versions
+- Improve code formats according to linter rules.
 
 ## 0.0.1
 
